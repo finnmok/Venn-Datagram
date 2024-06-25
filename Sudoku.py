@@ -22,6 +22,16 @@ solve_sudoku(board,possible_board) # you may have to run a few times
 """
 
 def refill_possible(board):
+  """
+    Refill the possible values for each cell in the Sudoku board.
+
+    Args:
+        board (np.array): A 9x9 numpy array representing the Sudoku board. 
+                          Cells with a value of 0 are considered empty.
+
+    Returns:
+        None: Modifies the global possible_board variable, setting each cell to a set of possible values (1-9).
+  """
 
   global possible_board
   #Create one set per cell with values 1 through 9
@@ -36,7 +46,17 @@ def refill_possible(board):
         possible_board[i][j] = {board[i][j]}
 
 def update_possible_values(board, possible_board):
+  """
+    Update the possible values for each cell based on current board state. Check the row, column, and grid intersections.
 
+    Args:
+        board (np.array): A 9x9 numpy array representing the Sudoku board. 
+                          Cells with a value of 0 are considered empty.
+        possible_board (np.array): A 9x9 numpy array of sets, where each set contains the possible values for that cell.
+
+    Returns:
+        bool: True if any cell's value was updated, False otherwise.
+  """
   #Comparison to see if there was any change later
   updated_board = False
   init_board = board.copy()
@@ -84,6 +104,18 @@ def update_possible_values(board, possible_board):
   return updated_board
 
 def place_unique_row(board, possible_board):
+    """
+    Place unique values in each row (if a possible value only appears once for a row on the board).
+
+    Args:
+        board (np.array): A 9x9 numpy array representing the Sudoku board. 
+                          Cells with a value of 0 are considered empty.
+        possible_board (np.array): A 9x9 numpy array of sets, where each set contains the possible values for that cell.
+
+    Returns:
+        bool: True if any cell's value was updated, False otherwise.
+    """
+
     updated_board = False
 
     for row in range(9):
@@ -108,6 +140,17 @@ def place_unique_row(board, possible_board):
     return updated_board
 
 def place_unique_col(board, possible_board):
+    """
+      Place unique values in each column (if a possible value only appears once for a column on the board).
+
+      Args:
+          board (np.array): A 9x9 numpy array representing the Sudoku board. 
+                            Cells with a value of 0 are considered empty.
+          possible_board (np.array): A 9x9 numpy array of sets, where each set contains the possible values for that cell.
+
+      Returns:
+          bool: True if any cell's value was updated, False otherwise.
+    """
     updated_board = False
 
     for col in range(9):
@@ -132,6 +175,17 @@ def place_unique_col(board, possible_board):
     return updated_board
 
 def place_unique_subgrid(board, possible_board):
+  """
+    Place unique values in each subgrid (if a possible value only appears once for a subgrid on the board).
+
+    Args:
+        board (np.array): A 9x9 numpy array representing the Sudoku board. 
+                          Cells with a value of 0 are considered empty.
+        possible_board (np.array): A 9x9 numpy array of sets, where each set contains the possible values for that cell.
+
+    Returns:
+        bool: True if any cell's value was updated, False otherwise.
+  """
   updated_board = False
 
   for grid_row in range(3):
@@ -155,9 +209,33 @@ def place_unique_subgrid(board, possible_board):
   return updated_board
 
 def create_pairs(s,n_in_pair = 2):
+    """
+      Create pairs of elements from a set.
+
+      Args:
+          s (set): A set of elements to create pairs from.
+          n_in_pair (int): The number of elements in each pair.
+
+      Returns:
+          list: A list of pairs (tuples) created from the set.
+    """
     return list(combinations(s, n_in_pair))
 
 def check_cells(possible_area,n_in_pair):
+
+  """
+    Check and update cells based on possible value pairs in a specified area.
+    Look at hidden pairs, where we know n_in_pair elements can only go in n_in_pair cells,
+      which means they must go there and not in another cells. Then, remove these hidden pairs
+      from other cells.
+
+    Args:
+        possible_area (np.array): An array representing a row, column, or subgrid with possible values.
+        n_in_pair (int): The number of elements in each pair.
+
+    Returns:
+        np.array: The updated possible_area array.
+  """
 
   #Get the shape to adjust it if it is a grid later
   possible_shape = possible_area.shape
@@ -184,6 +262,17 @@ def check_cells(possible_area,n_in_pair):
   return possible_area.reshape(possible_shape)
 
 def check_row_in_subgrid(board,possible_board):
+  """
+    Check and update possible values in subgrids based on unique values in intersecting rows.
+
+    Args:
+        board (np.array): A 9x9 numpy array representing the Sudoku board. 
+                          Cells with a value of 0 are considered empty.
+        possible_board (np.array): A 9x9 numpy array of sets, where each set contains the possible values for that cell.
+
+    Returns:
+        None: Modifies the possible_board array in place.
+  """
   can_update = False 
 
   for row_num in range(9):
@@ -236,6 +325,17 @@ def check_row_in_subgrid(board,possible_board):
         can_update = True 
 
 def check_col_in_subgrid(board,possible_board):
+  """
+    Check and update possible values in subgrids based on unique values in intersecting columns.
+
+    Args:
+        board (np.array): A 9x9 numpy array representing the Sudoku board. 
+                          Cells with a value of 0 are considered empty.
+        possible_board (np.array): A 9x9 numpy array of sets, where each set contains the possible values for that cell.
+
+    Returns:
+        None: Modifies the possible_board array in place.
+  """
   can_update = False
 
   for col_num in range(9):
@@ -289,7 +389,17 @@ def check_col_in_subgrid(board,possible_board):
 
 
 def solve_sudoku(board,possible_board):
+    """
+      Solve the Sudoku puzzle by iteratively updating the possible values and placing unique values.
 
+      Args:
+          board (np.array): A 9x9 numpy array representing the Sudoku board. 
+                            Cells with a value of 0 are considered empty.
+          possible_board (np.array): A 9x9 numpy array of sets, where each set contains the possible values for that cell.
+
+      Returns:
+          np.array: The solved Sudoku board.
+    """
     can_update = True
 
     #While we can update our grid
