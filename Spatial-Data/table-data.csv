@@ -1,0 +1,134 @@
+"year","fips","pop2020","pop2024","state","stateCode","growthSince2020","name","county","slug","landArea","density","rank","densityMi","areaMi"
+2024,51059,1148627,1144447,"Virginia","VA",-0.0036391274103777516,"Fairfax County","Fairfax County","virginia/fairfax-county",391,2926.97442455243,1,2926.97442455243,391
+2024,51153,482834,492268,"Virginia","VA",0.01953880629781657,"Prince William County","Prince William County","virginia/prince-william-county",335,1469.4567164179105,2,1469.4567164179105,335
+2024,51810,459684,452229,"Virginia","VA",-0.01621766256819901,"Virginia Beach city","Virginia Beach city","virginia/virginia-beach-city",245,1845.8326530612244,3,1845.8326530612244,245
+2024,51107,422705,439902,"Virginia","VA",0.04068321879324821,"Loudoun County","Loudoun County","virginia/loudoun-county",516,852.5232558139535,4,852.5232558139535,516
+2024,51041,365311,389462,"Virginia","VA",0.06611079326929659,"Chesterfield County","Chesterfield County","virginia/chesterfield-county",424,918.5424528301887,5,918.5424528301887,424
+2024,51087,334905,334967,"Virginia","VA",0.00018512712560281308,"Henrico County","Henrico County","virginia/henrico-county",234,1431.482905982906,6,1431.482905982906,234
+2024,51550,249781,255313,"Virginia","VA",0.02214740112338398,"Chesapeake city","Chesapeake city","virginia/chesapeake-city",338,755.3639053254437,7,755.3639053254437,338
+2024,51013,238814,234646,"Virginia","VA",-0.017452913145795446,"Arlington County","Arlington County","virginia/arlington-county",26,9024.846153846154,8,9024.846153846154,26
+2024,51760,226936,230127,"Virginia","VA",0.01406123312299501,"Richmond city","Richmond city","virginia/richmond-city",60,3835.45,9,3835.45,60
+2024,51710,237789,229302,"Virginia","VA",-0.03569130615798044,"Norfolk city","Norfolk city","virginia/norfolk-city",53,4326.452830188679,10,4326.452830188679,53
+2024,51700,186047,182256,"Virginia","VA",-0.02037657151149974,"Newport News city","Newport News city","virginia/newport-news-city",69,2641.391304347826,11,2641.391304347826,69
+2024,51179,157765,167687,"Virginia","VA",0.06289100877887988,"Stafford County","Stafford County","virginia/stafford-county",269,623.3717472118959,12,623.3717472118959,269
+2024,51510,159139,155415,"Virginia","VA",-0.023400926234298347,"Alexandria city","Alexandria city","virginia/alexandria-city",15,10361,13,10361,15
+2024,51177,140604,152348,"Virginia","VA",0.08352536200961569,"Spotsylvania County","Spotsylvania County","virginia/spotsylvania-county",402,378.97512437810946,14,378.97512437810946,402
+2024,51650,137280,136338,"Virginia","VA",-0.006861888111888148,"Hampton city","Hampton city","virginia/hampton-city",51,2673.294117647059,15,2673.294117647059,51
+2024,51003,112510,116507,"Virginia","VA",0.035525731046129216,"Albemarle County","Albemarle County","virginia/albemarle-county",720,161.81527777777777,16,161.81527777777777,720
+2024,51085,110202,115436,"Virginia","VA",0.04749460082394141,"Hanover County","Hanover County","virginia/hanover-county",468,246.65811965811966,17,246.65811965811966,468
+2024,51800,94750,102892,"Virginia","VA",0.08593139841688657,"Suffolk city","Suffolk city","virginia/suffolk-city",399,257.874686716792,18,257.874686716792,399
+2024,51121,99574,98506,"Virginia","VA",-0.010725691445558128,"Montgomery County","Montgomery County","virginia/montgomery-county",387,254.5374677002584,19,254.5374677002584,387
+2024,51161,96923,97296,"Virginia","VA",0.0038484157527109986,"Roanoke County","Roanoke County","virginia/roanoke-county",251,387.63346613545815,20,387.63346613545815,251
+2024,51069,91870,97180,"Virginia","VA",0.05779906389463374,"Frederick County","Frederick County","virginia/frederick-county",413,235.30266343825667,21,235.30266343825667,413
+2024,51770,99891,96685,"Virginia","VA",-0.03209498353204998,"Roanoke city","Roanoke city","virginia/roanoke-city",43,2248.4883720930234,22,2248.4883720930234,43
+2024,51740,97955,96632,"Virginia","VA",-0.013506201827369724,"Portsmouth city","Portsmouth city","virginia/portsmouth-city",33,2928.242424242424,23,2928.242424242424,33
+2024,51165,83774,87722,"Virginia","VA",0.04712679351588789,"Rockingham County","Rockingham County","virginia/rockingham-county",850,103.20235294117647,24,103.20235294117647,850
+2024,51095,78487,83825,"Virginia","VA",0.0680112630117089,"James City County","James City County","virginia/james-city-county",142,590.3169014084507,25,590.3169014084507,142
+2024,51019,79559,82309,"Virginia","VA",0.03456554255332511,"Bedford County","Bedford County","virginia/bedford-county",760,108.30131578947369,26,108.30131578947369,760
+2024,51680,78979,79842,"Virginia","VA",0.010926955266589822,"Lynchburg city","Lynchburg city","virginia/lynchburg-city",49,1629.4285714285713,27,1629.4285714285713,49
+2024,51015,77574,78555,"Virginia","VA",0.012645989635702737,"Augusta County","Augusta County","virginia/augusta-county",967,81.23578076525337,28,81.23578076525337,967
+2024,51061,73006,75653,"Virginia","VA",0.036257293921047484,"Fauquier County","Fauquier County","virginia/fauquier-county",648,116.74845679012346,29,116.74845679012346,648
+2024,51199,70232,70740,"Virginia","VA",0.007233170064927741,"York County","York County","virginia/york-county",105,673.7142857142857,30,673.7142857142857,105
+2024,51143,60367,59318,"Virginia","VA",-0.017377043749068233,"Pittsylvania County","Pittsylvania County","virginia/pittsylvania-county",969,61.21568627450981,31,61.21568627450981,969
+2024,51067,54482,56019,"Virginia","VA",0.028211152307183962,"Franklin County","Franklin County","virginia/franklin-county",691,81.06946454413892,32,81.06946454413892,691
+2024,51047,52768,55656,"Virginia","VA",0.05473013947847183,"Culpeper County","Culpeper County","virginia/culpeper-county",379,146.84960422163587,33,146.84960422163587,379
+2024,51031,55639,55475,"Virginia","VA",-0.0029475727457358714,"Campbell County","Campbell County","virginia/campbell-county",503,110.2882703777336,34,110.2882703777336,503
+2024,51191,53895,54245,"Virginia","VA",0.006494108915483743,"Washington County","Washington County","virginia/washington-county",561,96.6934046345811,35,96.6934046345811,561
+2024,51660,51706,51014,"Virginia","VA",-0.013383359764824188,"Harrisonburg city","Harrisonburg city","virginia/harrisonburg-city",17,3000.823529411765,36,3000.823529411765,17
+2024,51089,50851,49609,"Virginia","VA",-0.024424298440541947,"Henry County","Henry County","virginia/henry-county",382,129.86649214659687,37,129.86649214659687,382
+2024,51171,44265,45520,"Virginia","VA",0.028351971083248717,"Shenandoah County","Shenandoah County","virginia/shenandoah-county",508,89.60629921259843,38,89.60629921259843,508
+2024,51540,46469,44694,"Virginia","VA",-0.03819750801609678,"Charlottesville city","Charlottesville city","virginia/charlottesville-city",10,4469.4,39,4469.4,10
+2024,51149,43073,42721,"Virginia","VA",-0.008172172822882073,"Prince George County","Prince George County","virginia/prince-george-county",265,161.21132075471698,40,161.21132075471698,265
+2024,51683,42692,42719,"Virginia","VA",0.0006324369905368332,"Manassas city","Manassas city","virginia/manassas-city",10,4271.9,41,4271.9,10
+2024,51187,40792,42282,"Virginia","VA",0.03652676995489301,"Warren County","Warren County","virginia/warren-county",215,196.66046511627906,42,196.66046511627906,215
+2024,51109,37796,42044,"Virginia","VA",0.11239284580378883,"Louisa County","Louisa County","virginia/louisa-county",495,84.93737373737373,43,84.93737373737373,495
+2024,51590,42579,41657,"Virginia","VA",-0.021653866929707166,"Danville city","Danville city","virginia/danville-city",43,968.7674418604652,44,968.7674418604652,43
+2024,51093,38707,41287,"Virginia","VA",0.06665461027721076,"Isle of Wight County","Isle of Wight County","virginia/isle-of-wight-county",316,130.65506329113924,45,130.65506329113924,316
+2024,51073,38722,40564,"Virginia","VA",0.04756985692887761,"Gloucester County","Gloucester County","virginia/gloucester-county",218,186.07339449541286,46,186.07339449541286,218
+2024,51137,36397,39093,"Virginia","VA",0.07407203890430525,"Orange County","Orange County","virginia/orange-county",341,114.64222873900293,47,114.64222873900293,341
+2024,51185,40407,38677,"Virginia","VA",-0.04281436384784809,"Tazewell County","Tazewell County","virginia/tazewell-county",519,74.52215799614643,48,74.52215799614643,519
+2024,51195,36064,35021,"Virginia","VA",-0.028920807453416186,"Wise County","Wise County","virginia/wise-county",403,86.90074441687345,49,86.90074441687345,403
+2024,51023,33643,34150,"Virginia","VA",0.015069999702761239,"Botetourt County","Botetourt County","virginia/botetourt-county",541,63.12384473197782,50,63.12384473197782,541
+2024,51155,33807,33627,"Virginia","VA",-0.005324341112787345,"Pulaski County","Pulaski County","virginia/pulaski-county",320,105.084375,51,105.084375,320
+2024,51033,30921,33340,"Virginia","VA",0.07823162252191063,"Caroline County","Caroline County","virginia/caroline-county",527,63.26375711574953,52,63.26375711574953,527
+2024,51001,33392,33255,"Virginia","VA",-0.0041027791087685506,"Accomack County","Accomack County","virginia/accomack-county",449,74.06458797327394,53,74.06458797327394,449
+2024,51083,33926,33244,"Virginia","VA",-0.020102576195248467,"Halifax County","Halifax County","virginia/halifax-county",818,40.640586797066014,54,40.640586797066014,818
+2024,51730,33396,33156,"Virginia","VA",-0.007186489399928164,"Petersburg city","Petersburg city","virginia/petersburg-city",23,1441.5652173913043,55,1441.5652173913043,23
+2024,51145,30450,32625,"Virginia","VA",0.0714285714285714,"Powhatan County","Powhatan County","virginia/powhatan-county",260,125.48076923076923,56,125.48076923076923,260
+2024,51009,31312,31320,"Virginia","VA",0.00025549310168626604,"Amherst County","Amherst County","virginia/amherst-county",474,66.07594936708861,57,66.07594936708861,474
+2024,51117,30283,30769,"Virginia","VA",0.016048608129973996,"Mecklenburg County","Mecklenburg County","virginia/mecklenburg-county",625,49.2304,58,49.2304,625
+2024,51035,29148,29360,"Virginia","VA",0.007273226293399215,"Carroll County","Carroll County","virginia/carroll-county",475,61.810526315789474,59,61.810526315789474,475
+2024,51099,26826,29218,"Virginia","VA",0.08916722582569148,"King George County","King George County","virginia/king-george-county",180,162.32222222222222,60,162.32222222222222,180
+2024,51630,27991,29208,"Virginia","VA",0.04347826086956519,"Fredericksburg city","Fredericksburg city","virginia/fredericksburg-city",10,2920.8,61,2920.8,10
+2024,51173,29787,29024,"Virginia","VA",-0.02561520126229566,"Smyth County","Smyth County","virginia/smyth-county",451,64.35476718403548,62,64.35476718403548,451
+2024,51065,27294,28807,"Virginia","VA",0.05543342859236455,"Fluvanna County","Fluvanna County","virginia/fluvanna-county",287,100.37282229965157,63,100.37282229965157,287
+2024,51053,27891,28587,"Virginia","VA",0.02495428632892338,"Dinwiddie County","Dinwiddie County","virginia/dinwiddie-county",504,56.720238095238095,64,56.720238095238095,504
+2024,51075,24855,28232,"Virginia","VA",0.13586803460068397,"Goochland County","Goochland County","virginia/goochland-county",282,100.11347517730496,65,100.11347517730496,282
+2024,51197,28324,28093,"Virginia","VA",-0.008155627736195492,"Wythe County","Wythe County","virginia/wythe-county",462,60.807359307359306,66,60.807359307359306,462
+2024,51840,28013,27373,"Virginia","VA",-0.022846535537072055,"Winchester city","Winchester city","virginia/winchester-city",9,3041.4444444444443,67,3041.4444444444443,9
+2024,51127,23123,27316,"Virginia","VA",0.18133460191151674,"New Kent County","New Kent County","virginia/new-kent-county",210,130.07619047619048,68,130.07619047619048,210
+2024,51790,25812,25890,"Virginia","VA",0.0030218503021850474,"Staunton city","Staunton city","virginia/staunton-city",20,1294.5,69,1294.5,20
+2024,51600,24177,25536,"Virginia","VA",0.0562104479463954,"Fairfax city","Fairfax city","virginia/fairfax-city",6,4256,70,4256,6
+2024,51167,25757,25517,"Virginia","VA",-0.009317855340295833,"Russell County","Russell County","virginia/russell-county",474,53.833333333333336,71,53.833333333333336,474
+2024,51775,25403,25500,"Virginia","VA",0.003818446640160511,"Salem city","Salem city","virginia/salem-city",15,1700,72,1700,15
+2024,51139,23691,23705,"Virginia","VA",0.0005909417078215906,"Page County","Page County","virginia/page-county",310,76.46774193548387,73,76.46774193548387,310
+2024,51820,22279,23565,"Virginia","VA",0.0577225189640469,"Waynesboro city","Waynesboro city","virginia/waynesboro-city",15,1571,74,1571,15
+2024,51670,23009,22714,"Virginia","VA",-0.012821070016080682,"Hopewell city","Hopewell city","virginia/hopewell-city",10,2271.4,75,2271.4,10
+2024,51147,21906,22199,"Virginia","VA",0.013375330959554566,"Prince Edward County","Prince Edward County","virginia/prince-edward-county",350,63.425714285714285,76,63.425714285714285,350
+2024,51163,22650,22148,"Virginia","VA",-0.02216335540838854,"Rockbridge County","Rockbridge County","virginia/rockbridge-county",597,37.098827470686764,77,37.098827470686764,597
+2024,51105,22108,21643,"Virginia","VA",-0.021033110186357895,"Lee County","Lee County","virginia/lee-county",435,49.754022988505746,78,49.754022988505746,435
+2024,51079,20607,21587,"Virginia","VA",0.04755665550541077,"Greene County","Greene County","virginia/greene-county",156,138.37820512820514,79,138.37820512820514,156
+2024,51169,21589,21386,"Virginia","VA",-0.009402936680717011,"Scott County","Scott County","virginia/scott-county",536,39.899253731343286,80,39.899253731343286,536
+2024,51101,17918,19531,"Virginia","VA",0.09002120772407629,"King William County","King William County","virginia/king-william-county",274,71.28102189781022,81,71.28102189781022,274
+2024,51193,18511,19261,"Virginia","VA",0.04051644967856949,"Westmoreland County","Westmoreland County","virginia/westmoreland-county",229,84.10917030567686,82,84.10917030567686,229
+2024,51027,20245,18791,"Virginia","VA",-0.07182020251914056,"Buchanan County","Buchanan County","virginia/buchanan-county",503,37.357852882703774,83,37.357852882703774,503
+2024,51570,18189,18508,"Virginia","VA",0.01753807246137784,"Colonial Heights city","Colonial Heights city","virginia/colonial-heights-city",8,2313.5,84,2313.5,8
+2024,51175,17953,18051,"Virginia","VA",0.0054586977106889645,"Southampton County","Southampton County","virginia/southampton-county",599,30.135225375626042,85,30.135225375626042,599
+2024,51141,17591,17417,"Virginia","VA",-0.009891421749758433,"Patrick County","Patrick County","virginia/patrick-county",483,36.060041407867494,86,36.060041407867494,483
+2024,51750,16119,17223,"Virginia","VA",0.0684906011539177,"Radford city","Radford city","virginia/radford-city",10,1722.3,87,1722.3,10
+2024,51011,16154,17025,"Virginia","VA",0.053918534109199,"Appomattox County","Appomattox County","virginia/appomattox-county",334,50.97305389221557,88,50.97305389221557,334
+2024,51029,16828,16968,"Virginia","VA",0.008319467554076532,"Buckingham County","Buckingham County","virginia/buckingham-county",580,29.255172413793105,89,29.255172413793105,580
+2024,51520,17299,16674,"Virginia","VA",-0.03612925602635986,"Bristol city","Bristol city","virginia/bristol-city",13,1282.6153846153845,90,1282.6153846153845,13
+2024,51071,16786,16482,"Virginia","VA",-0.018110330036935518,"Giles County","Giles County","virginia/giles-county",357,46.168067226890756,91,46.168067226890756,357
+2024,51685,17162,16029,"Virginia","VA",-0.06601794662626737,"Manassas Park city","Manassas Park city","virginia/manassas-park-city",3,5343,92,5343,3
+2024,51830,15471,16009,"Virginia","VA",0.0347747398358218,"Williamsburg city","Williamsburg city","virginia/williamsburg-city",9,1778.7777777777778,93,1778.7777777777778,9
+2024,51063,15470,15735,"Virginia","VA",0.017129928894634716,"Floyd County","Floyd County","virginia/floyd-county",381,41.2992125984252,94,41.2992125984252,381
+2024,51025,15822,15667,"Virginia","VA",-0.009796485905700925,"Brunswick County","Brunswick County","virginia/brunswick-county",566,27.680212014134277,95,27.680212014134277,566
+2024,51043,14814,15601,"Virginia","VA",0.05312542189820446,"Clarke County","Clarke County","virginia/clarke-county",176,88.64204545454545,96,88.64204545454545,176
+2024,51135,15647,15577,"Virginia","VA",-0.004473701028951282,"Nottoway County","Nottoway County","virginia/nottoway-county",314,49.60828025477707,97,49.60828025477707,314
+2024,51077,15281,15245,"Virginia","VA",-0.0023558667626464302,"Grayson County","Grayson County","virginia/grayson-county",442,34.490950226244344,98,34.490950226244344,442
+2024,51610,14681,14881,"Virginia","VA",0.013623050200940012,"Falls Church city","Falls Church city","virginia/falls-church-city",2,7440.5,99,7440.5,2
+2024,51125,14740,14663,"Virginia","VA",-0.0052238805970149516,"Nelson County","Nelson County","virginia/nelson-county",471,31.13163481953291,100,31.13163481953291,471
+2024,51005,15180,14475,"Virginia","VA",-0.04644268774703553,"Alleghany County","Alleghany County","virginia/alleghany-county",447,32.38255033557047,101,32.38255033557047,447
+2024,51113,13861,14248,"Virginia","VA",0.02792006348748277,"Madison County","Madison County","virginia/madison-county",321,44.386292834890966,102,44.386292834890966,321
+2024,51690,13474,13829,"Virginia","VA",0.026347038741279416,"Martinsville city","Martinsville city","virginia/martinsville-city",11,1257.1818181818182,103,1257.1818181818182,11
+2024,51007,13267,13592,"Virginia","VA",0.024496871937891074,"Amelia County","Amelia County","virginia/amelia-county",355,38.287323943661974,104,38.287323943661974,355
+2024,51051,14074,13547,"Virginia","VA",-0.037444933920704804,"Dickenson County","Dickenson County","virginia/dickenson-county",330,41.051515151515154,105,41.051515151515154,330
+2024,51735,12473,12646,"Virginia","VA",0.013869959111681318,"Poquoson city","Poquoson city","virginia/poquoson-city",15,843.0666666666667,106,843.0666666666667,15
+2024,51133,11841,12504,"Virginia","VA",0.0559918925766405,"Northumberland County","Northumberland County","virginia/northumberland-county",191,65.46596858638743,107,65.46596858638743,191
+2024,51111,11947,12074,"Virginia","VA",0.010630283753243486,"Lunenburg County","Lunenburg County","virginia/lunenburg-county",432,27.949074074074073,108,27.949074074074073,432
+2024,51131,12213,12064,"Virginia","VA",-0.012200114631949588,"Northampton County","Northampton County","virginia/northampton-county",212,56.905660377358494,109,56.905660377358494,212
+2024,51037,11542,11272,"Virginia","VA",-0.0233928261999653,"Charlotte County","Charlotte County","virginia/charlotte-county",475,23.730526315789472,110,23.730526315789472,475
+2024,51081,11386,11062,"Virginia","VA",-0.028455998594765552,"Greensville County","Greensville County","virginia/greensville-county",295,37.498305084745766,111,37.498305084745766,295
+2024,51103,10903,10912,"Virginia","VA",0.0008254608823259346,"Lancaster County","Lancaster County","virginia/lancaster-county",133,82.04511278195488,112,82.04511278195488,133
+2024,51119,10614,10896,"Virginia","VA",0.026568682871678906,"Middlesex County","Middlesex County","virginia/middlesex-county",130,83.81538461538462,113,83.81538461538462,130
+2024,51183,10787,10874,"Virginia","VA",0.00806526374339489,"Sussex County","Sussex County","virginia/sussex-county",490,22.191836734693876,114,22.191836734693876,490
+2024,51057,10598,10566,"Virginia","VA",-0.0030194376297414394,"Essex County","Essex County","virginia/essex-county",257,41.11284046692607,115,41.11284046692607,257
+2024,51049,9666,10005,"Virginia","VA",0.0350713842333954,"Cumberland County","Cumberland County","virginia/cumberland-county",297,33.686868686868685,116,33.686868686868685,297
+2024,51159,8919,9242,"Virginia","VA",0.03621482228949424,"Richmond County","Richmond County","virginia/richmond-county",191,48.38743455497382,117,48.38743455497382,191
+2024,51115,8518,8578,"Virginia","VA",0.007043907020427342,"Mathews County","Mathews County","virginia/mathews-county",86,99.74418604651163,118,99.74418604651163,86
+2024,51620,8146,8404,"Virginia","VA",0.031671986250920714,"Franklin city","Franklin city","virginia/franklin-city",8,1050.5,119,1050.5,8
+2024,51678,7324,7550,"Virginia","VA",0.03085745494265435,"Lexington city","Lexington city","virginia/lexington-city",2,3775,120,3775,2
+2024,51157,7320,7375,"Virginia","VA",0.007513661202185773,"Rappahannock County","Rappahannock County","virginia/rappahannock-county",266,27.725563909774436,121,27.725563909774436,266
+2024,51640,6715,6732,"Virginia","VA",0.0025316455696202667,"Galax city","Galax city","virginia/galax-city",8,841.5,122,841.5,8
+2024,51097,6588,6726,"Virginia","VA",0.020947176684881663,"King and Queen County","King and Queen County","virginia/king-and-queen-county",315,21.35238095238095,123,21.35238095238095,315
+2024,51181,6551,6659,"Virginia","VA",0.016486032666768402,"Surry County","Surry County","virginia/surry-county",279,23.8673835125448,124,23.8673835125448,279
+2024,51036,6746,6652,"Virginia","VA",-0.013934183219685758,"Charles City County","Charles City County","virginia/charles-city-county",183,36.349726775956285,125,36.349726775956285,183
+2024,51530,6622,6563,"Virginia","VA",-0.008909694956206637,"Buena Vista city","Buena Vista city","virginia/buena-vista-city",6,1093.8333333333333,126,1093.8333333333333,6
+2024,51021,6256,6220,"Virginia","VA",-0.005754475703324768,"Bland County","Bland County","virginia/bland-county",358,17.374301675977655,127,17.374301675977655,358
+2024,51580,5745,5457,"Virginia","VA",-0.05013054830287211,"Covington city","Covington city","virginia/covington-city",5,1091.4,128,1091.4,5
+2024,51595,5707,5393,"Virginia","VA",-0.05502015069213251,"Emporia city","Emporia city","virginia/emporia-city",7,770.4285714285714,129,770.4285714285714,7
+2024,51045,4875,4828,"Virginia","VA",-0.009641025641025647,"Craig County","Craig County","virginia/craig-county",328,14.71951219512195,130,14.71951219512195,328
+2024,51017,4185,4041,"Virginia","VA",-0.03440860215053765,"Bath County","Bath County","virginia/bath-county",529,7.638941398865785,131,7.638941398865785,529
+2024,51720,3681,3395,"Virginia","VA",-0.07769627818527569,"Norton city","Norton city","virginia/norton-city",7,485,132,485,7
+2024,51091,2240,2382,"Virginia","VA",0.06339285714285725,"Highland County","Highland County","virginia/highland-county",415,5.739759036144578,133,5.739759036144578,415
